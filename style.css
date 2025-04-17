@@ -85,6 +85,24 @@ p {
     font-size: 18px;
     margin-top: 10px;
 }
+.btn2 {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: cyan;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 25px;
+    transition: 0.3s;
+    box-shadow: 0 0 10px cyan;
+}
+
+.btn2:hover {
+    background: white;
+    color: cyan;
+    box-shadow: 0 0 20px cyan;
+}
 
 .social-icons {
     margin-top: 20px;
