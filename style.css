@@ -8,13 +8,14 @@
 
 body {
     background-color: #0a192f;
-    color: white;
+    color: cyan;
 }
 
 .section-title {
     text-align: center;
     font-size: 30px;
     margin-bottom: 20px;
+    background-color: #0a192f;
     color: cyan;
 }
 
@@ -103,7 +104,7 @@ p {
 }
 
 .download-btn2 {
-    background-color: linear-gradient(45deg, #00ff6a, #00c4ff);
+    background-color: #0a192f;;
     color: cyan;
     font-size: 16px;
     cursor: pointer;
@@ -113,7 +114,7 @@ p {
 }
 
 .download-btn2:hover {
-    background-color: cyan
+    background-color: #0a192f;
 }
 
 /* Profile Image */
